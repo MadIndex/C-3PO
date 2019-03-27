@@ -1,6 +1,6 @@
-// ------------------
+// -----------------
 // Update Bot Status
-// ------------------
+// -----------------
 
 module.exports = function(bot, status, channel, writable = true)
 {
